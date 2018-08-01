@@ -1,0 +1,25 @@
+body:hover {
+    opacity: 1.0;
+ 
+}
+/* my footer styling */
+.footer .bottom{
+    padding: 5px 5px 5px 5px;
+    opacity: 0.8;
+   
+
+}
+footer{
+    margin-top:100px;
+}
+footer p{
+    color: white;
+    text-align: center;
+}
+section img{
+    display:block;
+    margin:auto;
+}
+hr{
+    border: 2px solid green;
+}
